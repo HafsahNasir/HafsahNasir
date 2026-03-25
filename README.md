@@ -1,8 +1,6 @@
-# README
-
 ## About Me
 
-Hello! 👋 I am currently a sophomore studying Computer Science at LUMS (Lahore University of Management Sciences). I am passionate about technology and its potential to solve real-world problems. Currently, I am focusing on enhancing my skills in full-stack web development.
+Hello! 👋 I am currently a Junior studying Computer Science at LUMS (Lahore University of Management Sciences). I am passionate about technology and its potential to solve real-world problems. Currently, I am focusing on enhancing my skills in full-stack web development.
 
 ## Interests
 
